@@ -25,10 +25,19 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		// YOUR CODE GOES HERE!!!!
+		System.out.println("give me a whole number:  ");
+		int number1 = in.nextInt();
+		in.nextLine();
 		
 		
 		
 		
+		
+		
+		
+		
+		
+	
 		
 		
 		
